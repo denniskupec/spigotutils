@@ -1,0 +1,22 @@
+name: SpigotUtils
+main: com.denniskupec.spigotutils.SpigotUtils
+version: 1.0
+commands:
+    tpa:
+        description: 'Request a teleport to a specific player'
+        usage: 'Usage: /tpa <player>'
+    tpaccept:
+        description: 'Accept a teleport request'
+        usage: 'You have no pending teleport requests.'
+    tpdeny:
+        description: 'Reject a teleport request'
+        usage: 'You have no pending teleport requests.'
+    broadcast:
+        description: 'Send a server-wide message.'
+    spawn:
+        description: 'Teleport to the world spawn.'
+    setspawn:
+        description: 'Set the world spawn.'
+    #isonline:
+    #    description: 'check for an online player'
+    #    usage: 'Usage: /isonline <player>'
