@@ -32,9 +32,6 @@ import com.denniskupec.spigotutils.Command.*;
 import com.denniskupec.spigotutils.EventListener.*;
 import org.bukkit.Bukkit;
 
-// Firebase token
-// wnjvHzQkjmtf5WX0npFNF4EujDq76DyX3IfRsg13
-
 public class SpigotUtils extends JavaPlugin
 {
 
